@@ -4,7 +4,7 @@ p {
 
 a {
   text-decoration: none;
-  color: #C61329;
+  color: #1D4D0C;
 }
 
 h1{
@@ -23,6 +23,14 @@ h4 {
   color: #1D4D0C;
 }
 
+h5{
+    color:#1D4D0C;
+}
+
 h6{
   color: #C61329;
+}
+
+tr.even {
+  background-color:#BFBFAF
 }
