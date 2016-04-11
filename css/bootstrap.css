@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=06e09284f63d1c4b2d69ac9851d9ad7e)
- * Config saved to config.json and https://gist.github.com/06e09284f63d1c4b2d69ac9851d9ad7e
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=2fd0ef531671e5ff63dd655065f9dd7e)
+ * Config saved to config.json and https://gist.github.com/2fd0ef531671e5ff63dd655065f9dd7e
  */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -3238,26 +3238,26 @@ fieldset[disabled] .btn-success.focus {
 }
 .btn-info {
   color: #ffffff;
-  background-color: #5bc0de;
-  border-color: #46b8da;
+  background-color: #1d4d0c;
+  border-color: #153709;
 }
 .btn-info:focus,
 .btn-info.focus {
   color: #ffffff;
-  background-color: #31b0d5;
-  border-color: #1b6d85;
+  background-color: #0c2105;
+  border-color: #000000;
 }
 .btn-info:hover {
   color: #ffffff;
-  background-color: #31b0d5;
-  border-color: #269abc;
+  background-color: #0c2105;
+  border-color: #010200;
 }
 .btn-info:active,
 .btn-info.active,
 .open > .dropdown-toggle.btn-info {
   color: #ffffff;
-  background-color: #31b0d5;
-  border-color: #269abc;
+  background-color: #0c2105;
+  border-color: #010200;
 }
 .btn-info:active:hover,
 .btn-info.active:hover,
@@ -3269,8 +3269,8 @@ fieldset[disabled] .btn-success.focus {
 .btn-info.active.focus,
 .open > .dropdown-toggle.btn-info.focus {
   color: #ffffff;
-  background-color: #269abc;
-  border-color: #1b6d85;
+  background-color: #010200;
+  border-color: #000000;
 }
 .btn-info:active,
 .btn-info.active,
@@ -3286,11 +3286,11 @@ fieldset[disabled] .btn-info:focus,
 .btn-info.disabled.focus,
 .btn-info[disabled].focus,
 fieldset[disabled] .btn-info.focus {
-  background-color: #5bc0de;
-  border-color: #46b8da;
+  background-color: #1d4d0c;
+  border-color: #153709;
 }
 .btn-info .badge {
-  color: #5bc0de;
+  color: #1d4d0c;
   background-color: #ffffff;
 }
 .btn-warning {
@@ -4857,7 +4857,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   font-size: 75%;
   font-weight: bold;
   line-height: 1;
-  color: #ffffff;
+  color: #c61329;
   text-align: center;
   white-space: nowrap;
   vertical-align: baseline;
@@ -4865,7 +4865,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 }
 a.label:hover,
 a.label:focus {
-  color: #ffffff;
+  color: #230307;
   text-decoration: none;
   cursor: pointer;
 }
@@ -4898,11 +4898,11 @@ a.label:focus {
   background-color: #449d44;
 }
 .label-info {
-  background-color: #5bc0de;
+  background-color: #1d4d0c;
 }
 .label-info[href]:hover,
 .label-info[href]:focus {
-  background-color: #31b0d5;
+  background-color: #0c2105;
 }
 .label-warning {
   background-color: #f0ad4e;
@@ -5179,7 +5179,7 @@ a.thumbnail.active {
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
 }
 .progress-bar-info {
-  background-color: #5bc0de;
+  background-color: #1d4d0c;
 }
 .progress-striped .progress-bar-info {
   background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
